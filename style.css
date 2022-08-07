@@ -1,3 +1,21 @@
+/* google font application */
 body{
     font-family: 'Poppins', sans-serif;
+}
+
+/* carousel image customizations */
+.carousel-item img{
+filter: brightness(50%) saturate(150%);
+}
+
+/* carousel intr0 text customization */
+.intro{
+    font-weight: 600;
+    color: white;
+}
+
+/* carousel description text customization */
+.intro-description{
+    font-weight:400;
+    color:white;
 }
