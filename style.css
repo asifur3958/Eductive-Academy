@@ -25,6 +25,29 @@ filter: brightness(50%) saturate(150%);
     color: black;
 }
 
+/* explore section bg color customization */
 .institute{
     background-color: #F4FAFD;
 }
+
+
+.name{
+    font-size: 15px;
+    font-weight: 600;
+}
+.designation{
+    font-size:13px;
+    font-weight:100;
+}
+
+/* carousel contro position modification */
+.carousel-control-next-icon{
+    margin-left:130px;
+    margin-top: 30px;
+}
+.carousel-control-prev-icon{
+    margin-right:130px;
+    margin-top: 30px;
+
+}
+
