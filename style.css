@@ -23,7 +23,6 @@ filter: brightness(50%) saturate(150%);
 }
 .get-started{
     font-size: 2vw;
-
 }
 
 /* card title color */
@@ -35,8 +34,6 @@ filter: brightness(50%) saturate(150%);
 .institute{
     background-color: #F4FAFD;
 }
-
-
 .name{
     font-size: 15px;
     font-weight: 600;
@@ -54,5 +51,4 @@ filter: brightness(50%) saturate(150%);
 .carousel-control-prev-icon{
     margin-right:130px;
     margin-top: 30px;
-
 }
