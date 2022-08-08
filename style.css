@@ -52,3 +52,7 @@ filter: brightness(50%) saturate(150%);
     margin-right:130px;
     margin-top: 30px;
 }
+
+footer{
+    background-color:black;
+}
