@@ -19,6 +19,16 @@ filter: brightness(50%) saturate(150%);
     font-weight:400;
     color:white;
 }
+
+/* card title color */
 .card-body{
     color: black;
+}
+
+.institute{
+    background-color: #F4FAFD;
+}
+
+.working img{
+    object-fit:none;
 }
