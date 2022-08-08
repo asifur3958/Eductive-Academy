@@ -28,7 +28,3 @@ filter: brightness(50%) saturate(150%);
 .institute{
     background-color: #F4FAFD;
 }
-
-.working img{
-    object-fit:none;
-}
